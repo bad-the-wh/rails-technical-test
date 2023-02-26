@@ -50,6 +50,8 @@ We love creativity and technical challenges.
 Here's some examples:
 - Write a documentation of the project
 - Unit test
+- Authentication solution 
+- Docker
 - Etc...
 
 ## Submission
