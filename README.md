@@ -1,15 +1,21 @@
-# PokéCoin
+# Full stack technical test 
+
+## PokéCoin
 The goal of this test is to create an exchange platform to trade pokémon as NFTs.
 
 ## Requirement
+- Docker
 - Ruby
 - Rails framework
 - Use of sqlite
 - Use of Active Record
-- Use of Active Controller
+- Use of Action Controller
 
 ## Project Specifications
 You can use any gem in order to make this project.
+
+### Docker compose
+You must write a docker-compose file in order to us to be able to run your project
 
 #### HTTP Routes:
 | **VERB** | **Route**             | **Description**                         |
@@ -44,15 +50,18 @@ feel free to add extra routes
 ## ERD Diagram
 ![QuickDBD-Free Diagram](./erd.png)
 
+## Seed
+Add some seed https://guides.rubyonrails.org/v5.1/active_record_migrations.html#migrations-and-seed-data
+
 ## Bonus
 Feel free to make as many improvements as you like.
 We love creativity and technical challenges.
 Here's some examples:
 - Write a documentation of the project
 - Unit test
-- Authentication solution 
-- Docker
+- Implementation of Vuejs
+- Authentication solution
 - Etc...
 
 ## Submission
-You can either create a git repo with free access or send the repo back via mail
+Create a git repo with free access and send us your link via mail
