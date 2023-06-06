@@ -64,4 +64,6 @@ Here's some examples:
 - Etc...
 
 ## Submission
-Create a git repo with free access and send us your link via mail
+Create a git repo with free access and send us your link via email
+
+Remember you can send back your work even if requirements are not respected
