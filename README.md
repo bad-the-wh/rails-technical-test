@@ -47,7 +47,7 @@ feel free to add extra routes
 - Add to from user balance
 - Register a transaction with a SELL operation
 
-## ERD Diagram
+## Example ERD diagram
 ![QuickDBD-Free Diagram](./erd.png)
 
 ## Seed
