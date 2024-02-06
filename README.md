@@ -19,7 +19,7 @@ You can use any gem in order to make this project.
 You must write a docker-compose file in order to us to be able to run your project
 
 ### Frontend
-Your project must bootstrap Vuejs
+Your project must bootstrap Vuejs as Frontend framework
 
 #### HTTP Routes:
 | **VERB** | **Route**             | **Description**                         |
