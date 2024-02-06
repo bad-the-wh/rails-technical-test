@@ -10,12 +10,16 @@ The goal of this test is to create an exchange platform to trade pokémon as NFT
 - Use of sqlite
 - Use of Active Record
 - Use of Action Controller
+- Vuejs
 
 ## Project Specifications
 You can use any gem in order to make this project.
 
-### Docker compose
+#### Docker compose
 You must write a docker-compose file in order to us to be able to run your project
+
+### Frontend
+Your project must bootstrap Vuejs
 
 #### HTTP Routes:
 | **VERB** | **Route**             | **Description**                         |
@@ -59,7 +63,7 @@ We love creativity and technical challenges.
 Here's some examples:
 - Write a documentation of the project
 - Unit test
-- Implementation of Vuejs
+- Implementation of Tailwindcss
 - Authentication solution
 - Etc...
 
