@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  # Rails Backend Service
+  backend:
+    build:
+      context: ./poke_coin
+    ports:
+      - "3000:3000"
+
+  # Vue.js Frontend Service
+  frontend:
+    build:
+      context: ./poke_coin_front
+    ports:
+      - "8080:8080"
